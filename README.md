@@ -1,6 +1,6 @@
 # Deep-CNN-Word-Recognition
 
-Use Matlab 2017a and higher version to run the code. 
+Use Matlab 2017b and higher version to run the code. 
 
 TrainTestDivision_Preprocessing.m	contains the code for preprocessing the input images and partitioning data into train and test set. It also saves the train test data in a .mat file.
 
